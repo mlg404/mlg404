@@ -42,8 +42,8 @@ Currently looking for developer jobs (both frontend and backend)
 <br />
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&layout=compact" />
-
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs" />
+<br>
+<img align="left" width="500px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs" />
 
 
 

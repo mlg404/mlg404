@@ -7,6 +7,14 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and improve my portfolio
 - ⚡ Fun fact: I love to play games 🎮
 
+### Short description
+
+Technology enthusiast, mainly in web & mobile development.
+Currently focused on the JS stack (Node.js, ReactJS and React Native).
+Passionate about programming since I was younger
+Always trying to practice and learn this incredible and beautiful universe!
+Currently looking for developer jobs (both frontend and backend)
+
 ### Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/mlg404)

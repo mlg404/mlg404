@@ -11,7 +11,7 @@
 
 Technology enthusiast, mainly in web & mobile development.
 Currently focused on the JS stack (Node.js, ReactJS and React Native).
-Passionate about programming since I was younger
+Passionate about programming since I was younger.
 Always trying to practice and learn this incredible and beautiful universe!
 Currently looking for developer jobs (both frontend and backend)
 

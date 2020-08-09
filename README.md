@@ -14,7 +14,6 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)](https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyervictor@gmail.com)](mailto:eyervictor@gmail.com)
 
-<br />
 
 ### Languages and Tools:
 
@@ -32,7 +31,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&layout=compact)](https://github.com/mlg404)
+
 <br />
 
-<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mlg404&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs" />
+
+
 

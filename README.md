@@ -1,4 +1,5 @@
 ### Hi there, I'm Victor Eyer 👋
+![](https://komarev.com/ghpvc/?username=mlg404)
 
 ## I'm a Developer, Enthusiast, Discoverer and Student!
 - 🔭 I’m currently open for working!

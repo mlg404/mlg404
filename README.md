@@ -35,8 +35,8 @@ Always trying to practice and learn this incredible and beautiful universe!
 	<img align="center" alt="Firebase" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 	<img align="center" alt="Node" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img align="center" alt="TypeScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-	<br />
-	<p align"center">And mush more!</p>
+	<br /><br />
+	<p align"center">And much more!</p>
 </div>
 <br />
 <br />

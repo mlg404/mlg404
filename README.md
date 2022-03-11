@@ -41,9 +41,9 @@ Always trying to practice and learn this incredible and beautiful universe!
 <br />
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&layout=compact" />
+		<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&layout=compact" />
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&cache_seconds=1800&line_height=30" />
+		<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&cache_seconds=1800&line_height=30" />
 	</a>
 </div>

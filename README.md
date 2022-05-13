@@ -37,8 +37,7 @@ Always trying to practice and learn this incredible and beautiful universe!
 	<br /><br />
 	<p align"center">And much more!</p>
 </div>
-<br />
-<br />
+<br /><br />
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img width="300px" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&layout=compact" />

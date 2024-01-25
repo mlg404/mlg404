@@ -1,48 +1,97 @@
-### Hi there, I'm Victor Eyer 👋
-![](https://komarev.com/ghpvc/?username=mlg404)
-## I'm a Developer, Enthusiast, Discoverer and Student!
-- 🔭 I’m currently open for working!
-- 🌱 I’m currently learning perfecting TypeScript
-- 💻 I’m looking to collaborate with other projects
-- 🥅 2022 Goals: Contribute more to Open Source projects and improve my portfolio
-- ⚡ Fun fact: I love to play games 🎮
-### Short description
-Technology enthusiast, mainly in backend development.
-Currently focused on the JS stack (Node.js, ReactJS and React Native).
-Passionate about programming since I was younger.
-Always trying to practice and learn this incredible and beautiful universe!
-### Connect with me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/mlg404)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoreyer)](https://www.linkedin.com/in/victoreyer)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)](https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyervictor@gmail.com)](mailto:eyervictor@gmail.com)
-### Languages and Tools:
 <div align="center">
-	<img align="center" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-	<img align="center" alt="CSS3" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-	<img align="center" alt="JavaScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-	<img align="center" alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-	<img align="center" alt="Node.js" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img align="center" alt="SQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-	<img align="center" alt="MySQL" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-	<img align="center" alt="MongoDB" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-	<img align="center" alt="Git" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-	<img align="center" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-	<img align="center" alt="HTML5" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-	<img align="center" alt="Docker" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-	<img align="center" alt="Express" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-	<img align="center" alt="Firebase" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-	<img align="center" alt="Node" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-	<img align="center" alt="TypeScript" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-	<br /><br />
-	<p align"center">And much more!</p>
+<h1>
+ Hi there, I'm Victor Eyer <img style="margin-right: 32px;" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">
+ </h1>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/mlg404) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoreyer)](https://www.linkedin.com/in/victoreyer) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)](https://api.whatsapp.com/send?phone=5522998538279&text=Hello!) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyervictor@gmail.com)](mailto:eyervictor@gmail.com)
+![](https://komarev.com/ghpvc/?username=mlg404&style=for-the-badge&label=Profile+Visits)
+
+<a href="#" alt="streaks">
+		<picture>
+			<source 
+				srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlg404&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&theme=github-dark-blue&hifr"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-streak-stats.herokuapp.com/?user=mlg404&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&theme=ocean-gradient"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-streak-stats.herokuapp.com/?user=mlg404&hide_border=true&count_private=true&show_icons=true&include_all_commits=true"" />
+		</picture>
+	</a>
+</div>
+
+<hr style="width: 100%; align: center;">
+
+## I'm a Developer, Enthusiast, Discoverer and Student!
+
+- 🔭 I’m currently open for working!
+- 🌱 Learning perfecting my skills anytime!
+- 💻 I’m looking to collaborate with other projects
+- 🥅 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: i like Rubik's Cube 🎲
+
+### Short description
+
+As a solution-oriented developer, I leverage programming languages to create value and solve complex problems. My expertise lies in full-stack development, with a predominant focus on JavaScript/TypeScript and their frameworks. I am known for my flexibility, ready to adopt the most efficient and effective tools for each project.
+
+A technology enthusiast, I possess robust skills in web/mobile front-end development, and have recently concentrated on refining my back-end abilities.
+
+My passion for programming has been a constant since my youth, driving me to continuously engage, learn, and grow within this fascinating field. I am dedicated to exploring and mastering the ever-evolving landscape of technology
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nestjs,html,css,mysql,postgres,mongodb,redis,express,nodejs,react,git,docker,github,jest,linux,prisma)](https://skillicons.dev)
+<small><i><strong>And much more!</strong></i></small>
+
 </div>
 <br /><br />
-<div align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img width="300px" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&layout=compact" />
+
+<div align="center;" style="display:flex;align-items: center">
+	<a href="#" alt="Most Used Languages">
+		<picture>
+			<source 
+				srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&langs_count=8&layout=compact&hide_border=true&theme=github_dark"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&langs_count=8&layout=compact&hide_border=true"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlg404&langs_count=8&layout=compact&hide_border=true" />
+		</picture>
 	</a>
-	<a href="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&cache_seconds=1800&line_height=30">
-		<img width="425px" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mlg404&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&cache_seconds=1800&line_height=31" />
+	<a href="#" alt="Stats">
+		<picture>
+			<source 
+				srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mlg404&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&hifr"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mlg404&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mlg404&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+		</picture>
 	</a>
 </div>
+<div align="center" style="display:flex;flex-direction:column;align-items: center">
+	<a href="#" alt="Graph">
+		<picture>
+			<source 
+				srcset="https://github-readme-activity-graph.vercel.app/graph?username=mlg404&hide_border=true&theme=github-dark"
+				media="(prefers-color-scheme: dark)"
+			/>
+			<source
+				srcset="https://github-readme-activity-graph.vercel.app/graph?username=mlg404&hide_border=true&theme=minimal"
+				media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+			/>
+			<img src="https://github-readme-activity-graph.vercel.app/graph?username=mlg404&hide_border=true" />
+		</picture>
+	</a>
+	
+</div>
+
+<p align="center">
+
+</p>

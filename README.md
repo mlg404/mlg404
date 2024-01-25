@@ -6,6 +6,8 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mlg404)](https://github.com/mlg404) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoreyer)](https://www.linkedin.com/in/victoreyer) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522998538279&text=Hello!)](https://api.whatsapp.com/send?phone=5522998538279&text=Hello!) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyervictor@gmail.com)](mailto:eyervictor@gmail.com)
 ![](https://komarev.com/ghpvc/?username=mlg404&style=for-the-badge&label=Profile+Visits)
 
+<br />
+
 <a href="#" alt="streaks">
 		<picture>
 			<source 
@@ -47,7 +49,7 @@ My passion for programming has been a constant since my youth, driving me to con
 </div>
 <br /><br />
 
-<div align="center;" style="display:flex;align-items: center">
+<div align="center;" style="display:flex;align-items: center; justify-content: center">
 	<a href="#" alt="Most Used Languages">
 		<picture>
 			<source 
@@ -89,9 +91,4 @@ My passion for programming has been a constant since my youth, driving me to con
 			<img src="https://github-readme-activity-graph.vercel.app/graph?username=mlg404&hide_border=true" />
 		</picture>
 	</a>
-	
 </div>
-
-<p align="center">
-
-</p>
